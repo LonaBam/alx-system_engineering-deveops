@@ -12,3 +12,4 @@ This script displays the current directory contents, including hidden files and 
 9-firstdirdeletion - This script deletes a directory
 10-back - This script changes the working directory to the previous one
 11-lists - This script listas all the files (even the hidden ones) in the current directory, the parent of the working directory and the /boot directory in long format
+12-file_type - This script prints the type of the file in question
