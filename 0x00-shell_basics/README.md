@@ -10,3 +10,4 @@ This script displays the current directory contents, including hidden files and 
 7-movethatfile - This script moves a file into the first directory
 8-firstdelete - This script deletes the file in the first directory
 9-firstdirdeletion - This script deletes a directory
+10-back - This script changes the working directory to the previous one
