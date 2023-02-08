@@ -8,3 +8,4 @@ This script displays the current directory contents, including hidden files and 
 5-listfilesdigitonly - This script displays the current directory's contents in long format and the user and group IDs numerically, including hidden files
 6-firstdirectory - This script creates a directory within another directory
 7-movethatfile - This script moves a file into the first directory
+8-firstdelete - This script deletes the file in the first directory
