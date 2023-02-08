@@ -14,3 +14,4 @@ This script displays the current directory contents, including hidden files and 
 11-lists - This script listas all the files (even the hidden ones) in the current directory, the parent of the working directory and the /boot directory in long format
 12-file_type - This script prints the type of the file in question
 13-symbolic_link - This script creates a sumbolic link in the working directory
+14-copy_html - This script copies all the HTML files from the current working directory to its parent, but only copy files that did not exist in the parent or were newer than the versions in the parent
