@@ -9,3 +9,4 @@ This script displays the current directory contents, including hidden files and 
 6-firstdirectory - This script creates a directory within another directory
 7-movethatfile - This script moves a file into the first directory
 8-firstdelete - This script deletes the file in the first directory
+9-firstdirdeletion - This script deletes a directory
