@@ -6,3 +6,4 @@
 This script displays the current directory contents, including hidden files and in long format
 ^ 4-listmorefiles
 5-listfilesdigitonly - This script displays the current directory's contents in long format and the user and group IDs numerically, including hidden files
+6-firstdirectory - This script creates a directory within another directory
