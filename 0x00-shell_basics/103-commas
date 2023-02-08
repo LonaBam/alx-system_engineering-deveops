@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -mpaXv --group-directories-first 
+ls -mpaXv  
