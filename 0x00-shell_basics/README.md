@@ -18,3 +18,4 @@ This script displays the current directory contents, including hidden files and 
 100-lets_move - This script moves all files beinning with an uppercase letter to a directory
 101-clean_emacs - This script deletes all files that end with ~
 102-tree - This script creates nested directories
+103-commas - This script lists all files with various flags seperated by commas
