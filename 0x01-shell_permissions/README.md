@@ -12,3 +12,4 @@
 11-directories_permissions - This script adds execute permission to all subdirectories of the current directory for the owner, group and other users
 12-directory_permissions - This script creatse a diectory with set permissions
 13-change_group - This script changes the group owner to school for a file
+100-change_owner_and_group - This script chnages the owner and group owner for all files and directories
