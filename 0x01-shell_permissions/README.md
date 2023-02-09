@@ -8,3 +8,4 @@
 7-everybody - This script adds execution permission to the owner, group and other users to a file
 8-James_Bond - This scripts gives the owner and group no rights and others all the permissions
 9-John_Doe - This script sets the mode of a file to rwxr-w-wx
+= 10-mirror_permissions - This script sets the mode of a file to mirror another file's mode
