@@ -5,3 +5,4 @@
 4-empty - This script creates an empty file
 5-execute - This script adds execute permission to the owner of a file
 6-multiple_permissions - This script adds execute permission to the owner and group and read permission to other users
+7-everybody - This script adds execution permission to the owner, group and other users to a file
