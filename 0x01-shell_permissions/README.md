@@ -11,3 +11,4 @@
 = 10-mirror_permissions - This script sets the mode of a file to mirror another file's mode
 11-directories_permissions - This script adds execute permission to all subdirectories of the current directory for the owner, group and other users
 12-directory_permissions - This script creatse a diectory with set permissions
+13-change_group - This script changes the group owner to school for a file
