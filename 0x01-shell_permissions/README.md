@@ -13,3 +13,4 @@
 12-directory_permissions - This script creatse a diectory with set permissions
 13-change_group - This script changes the group owner to school for a file
 100-change_owner_and_group - This script chnages the owner and group owner for all files and directories
+101-symbolic_link_permissions - This script changes the owner and group owner of files respectively
