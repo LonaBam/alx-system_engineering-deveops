@@ -9,3 +9,4 @@
 8-James_Bond - This scripts gives the owner and group no rights and others all the permissions
 9-John_Doe - This script sets the mode of a file to rwxr-w-wx
 = 10-mirror_permissions - This script sets the mode of a file to mirror another file's mode
+11-directories_permissions - This script adds execute permission to all subdirectories of the current directory for the owner, group and other users
