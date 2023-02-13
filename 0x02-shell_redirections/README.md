@@ -7,3 +7,4 @@
 6-third_line - This script displays the third line of a file
 7-file - This script creates a file containing text
 8-cwd_state - This script writes the resluts of ls -la into a file
+9-duplicate_last_line - This script duplicates the last line of the file
