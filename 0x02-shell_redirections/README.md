@@ -18,3 +18,4 @@
 17-hidethisword - This script displays all the lines that do not contain a specific pattern
 18-letteronly - This script displays all lines in a file starting with a letter
 19-AZ - This script replaces charcters from input
+20-hiago - This script removes specific letters from input
