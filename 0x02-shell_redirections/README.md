@@ -12,3 +12,4 @@
 11-directories - This script counts the number of dictories and its subs in the current directory
 12-newest_files - This script displays the 10 newest files in current directory
 13-unique - This script takes a list of words as input and prints words that appear exactly once
+14-findthatword - This script displays the lines containing a specific pattern from a specific file
