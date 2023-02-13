@@ -19,3 +19,4 @@
 18-letteronly - This script displays all lines in a file starting with a letter
 19-AZ - This script replaces charcters from input
 20-hiago - This script removes specific letters from input
+21-reverse - This script reverses the input
