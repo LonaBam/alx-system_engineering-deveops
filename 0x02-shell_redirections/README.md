@@ -8,3 +8,4 @@
 7-file - This script creates a file containing text
 8-cwd_state - This script writes the resluts of ls -la into a file
 9-duplicate_last_line - This script duplicates the last line of the file
+10-no_more_js - This script deletes alljs files in the current directory and it's subfolders
