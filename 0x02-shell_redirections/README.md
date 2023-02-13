@@ -17,3 +17,4 @@
 16-whatsnext - This script displays lines that contain a specific pattern and 3 lines after them in a file
 17-hidethisword - This script displays all the lines that do not contain a specific pattern
 18-letteronly - This script displays all lines in a file starting with a letter
+19-AZ - This script replaces charcters from input
