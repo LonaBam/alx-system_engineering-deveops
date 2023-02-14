@@ -11,3 +11,4 @@
 10-love_exponent_breath - This script displays the result of expotential of two variables
 11-binary_to_decimal - This script converts a number from base 2 to base 10
 12-combinations - This script prints all possible combinations of two letters excent one combination
+13-print_float - This script prints a number with two decimal places
