@@ -20,3 +20,4 @@
 19-AZ - This script replaces charcters from input
 20-hiago - This script removes specific letters from input
 21-reverse - This script reverses the input
+22-users_and_homes - This script displays all users and their home directories, sorted by users
