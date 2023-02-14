@@ -13,3 +13,4 @@
 12-combinations - This script prints all possible combinations of two letters excent one combination
 13-print_float - This script prints a number with two decimal places
 100-decimal_to_hexadecimal - This script converts a number from base 10 to base 16
+101-rot13 - This script encodes and decodes text using the rot13 encryption
