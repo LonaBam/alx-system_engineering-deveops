@@ -8,3 +8,4 @@
 7-create_global_variable - This script creates a global variable
 8-true_knowledge - This script prints the result of the addition of 128 to the value stored in a variable, followed by a new line
 9-divide_and_rule - This script prints the result of a division
+10-love_exponent_breath - This script displays the result of expotential of two variables
