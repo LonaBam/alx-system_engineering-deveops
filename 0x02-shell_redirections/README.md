@@ -21,3 +21,4 @@
 20-hiago - This script removes specific letters from input
 21-reverse - This script reverses the input
 22-users_and_homes - This script displays all users and their home directories, sorted by users
+100-empty_casks - This script finds all empty files and directories in the current directory and all subfolders
