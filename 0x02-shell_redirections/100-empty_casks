@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -aR1 | find . -empty  
+ls -aR1 | find . -maxdepth 2 -empty 
